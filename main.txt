@@ -1,4 +1,9 @@
 hola desde main
 este es mi primer push
 
+<<<<<<< HEAD
 esta linea es de cuenta principal
+=======
+agregando linea nueva
+nueva linea
+>>>>>>> e8cc5c5b9b160ae3f3f3d67c3131e585b901878d
